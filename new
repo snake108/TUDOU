@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>康文昌的在线HTML 教学小工具</title>
+    <style>  
+      body {
+        margin: 0;
+        background-color:#111111
+      }
+    </style>
+    <style>
+.left {
+    position: absolute;s
+    color: #ffffff
+}
+</style>
+    <style>
+.left1 {
+    position: absolute;
+    color: #ffffff
+}
+</style>
+<style>
+.left2 {
+    position: absolute;
+    color: #ffffff
+</style>
+
+<style>
+.grid-container {
+  display: grid;
+  grid: 60px/auto auto auto;
+  grid-gap: 100px;
+}
+
+.grid-container > div {
+  text-align: center;
+  padding: 10px 0;
+  font-size: 20px;
+  font-weight:bold;
+
+}
+ </style> 
+
+
+
+  </head>
+
+
+
+
+  <body>
+<h1>halo,haha</h1>
+  </body>
+</html>
+
+
+
